@@ -1,4 +1,4 @@
-## Hi there 👋# Hi there, I'm [Your Name] 👋
+## Hi there 👋# Hi there, I'm Maira 👋
 
 ## About Me
 - 🔭 I’m currently working at Fraunhofer Institute for Production Technology as a Data Science & Simulation Intern
