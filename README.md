@@ -1,4 +1,4 @@
-## Hi there 👋# Hi there, I'm Maira 👋
+# Hi there, I'm Maira 👋
 
 Computer Engineering student, developer and data scientist with nearly 5 years of experience 
 working on research projects focused on the areas of Artificial Intelligence, Deep Learning and 
@@ -11,22 +11,22 @@ capable of adding value and that's why I chose to pursue a career in the data fi
 - 👯 I’m looking to collaborate on hackathons!
 <!-- - 🤔 I’m looking for help with [Something You're Stuck On]
 - 💬 Ask me about [Your Skills or Areas of Expertise]-->
-- 📫 How to reach me: [Your Email](mailto:maira.matos@outlook.com.br)
+- 📫 How to reach me: [maira.matos@outlook.com.br](mailto:maira.matos@outlook.com.br)
 - ⚡ Fun fact: I'm still trying to learn how to hide a bike
 
 ## 🛠️ Skills
 - Programming Languages :
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square=python&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square=c%2B%2B&logoColor=white)
 - Databases :
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=InfluxDB&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
 - Machine Learning & Deep Learn :
-  ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white).![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+  ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white).![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
 - Frameworks :
-  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
 - Cloud :
-  ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+  ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
 - Tools & Platforms:
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
 <!--
 ## 🚀 Projects
 Here are a few of my favorite projects:
@@ -48,7 +48,7 @@ Here are a few of my favorite projects:
 ➡️ [More blog posts...](https://yourblog.com)
 -->
 ## 📫 Let's Connect!
-- [LinkedIn]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/ma%C3%ADra-matos-ara%C3%BAjo-139b07186/))
+- [LinkedIn]( https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/ma%C3%ADra-matos-ara%C3%BAjo-139b07186/ )
 
 
 
