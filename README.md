@@ -48,8 +48,7 @@ Here are a few of my favorite projects:
 ➡️ [More blog posts...](https://yourblog.com)
 -->
 ## 📫 Let's Connect!
-- [LinkedIn]( https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/ma%C3%ADra-matos-ara%C3%BAjo-139b07186/ )
-
+- [LinkedIn](https://www.linkedin.com/in/maira-matos-araujo)
 
 
 <!--
